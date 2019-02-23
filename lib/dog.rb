@@ -16,9 +16,9 @@ class Dog
       puts name
   end 
   
-  def self.class_variable_get(name_of_class_variable)
-    @@all 
-  end 
+  # def self.class_variable_get(name_of_class_variable)
+  #   @@all 
+  # end 
   
   # def self.all 
   #   self.each do |name| 
