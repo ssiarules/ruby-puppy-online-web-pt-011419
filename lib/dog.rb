@@ -28,10 +28,10 @@ class Dog
   # @name
 #end 
 
-Dog.all.each do |name|
-  puts "#{name}"
-end
-end 
+# Dog.all.each do |name|
+#   puts "#{name}"
+# end
+# end 
 
  #dog = Dog.new
 # Dog.new = name
