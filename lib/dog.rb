@@ -16,6 +16,7 @@ class Dog
       puts dog.name
   end 
 end 
+end 
   # def self.class_variable_get(name_of_class_variable)
   #   @@all 
   # end 
