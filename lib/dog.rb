@@ -15,7 +15,7 @@ class Dog
     @@all.each do |dog|
       puts dog.name
   end 
-  
+end 
   # def self.class_variable_get(name_of_class_variable)
   #   @@all 
   # end 
